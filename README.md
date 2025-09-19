@@ -58,7 +58,7 @@ Fed up with manually copying and pasting `scripts` and `images` folders every ti
 ### Before (Manual Process) 😫
 ```
 1. Navigate to your Plutonium folder
-2. Move current (original) scripts/images in a folder called original,Unmodded , anyname you want .....
+2. Move current (original) scripts/images to a folder called original,Unmodded , anyname you want .....
 ├── 📁 Original/                 ← Your original files ⭐
 │   ├── 📁 scripts/
 │   └── 📁 images/
@@ -91,14 +91,12 @@ Your Plutonium directory should be organized like this:
 ├── 📁 Original/                 ← Your vanilla/original files ⭐
 │   ├── 📁 scripts/
 │   └── 📁 images/
-├── 📁 ColdWar-Zombies/          ← Your first mod
+├── 📁 ColdWar-Zombies/          ← Your first mod 
 │   ├── 📁 scripts/
 │   └── 📁 images/
 ├── 📁 Multiplayer-Bots/         ← Your second mod
 │   ├── 📁 scripts/
-│   └── 📁 images/
-├── 📁 Custom-Maps/              ← Your third mod
-│   ├── 📁 scripts/
+├── 📁 Custom-Camos/              ← Your third mod
 │   └── 📁 images/
 ├── 📁 demos/
 ├── 📁 main/
