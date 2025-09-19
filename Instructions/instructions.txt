@@ -1,0 +1,37 @@
+before you start you should open %localappdata%/Plutonium/storage/t6/
+you can use explorer or run command windows+R
+
+1 - Create a folder to place your original scripts/images folders (Unmodded)
+2 - move the original scripts/images folder to the folder you've created
+3 - copy your mod folders to the directory %localappdata%/Plutonium/storage/t6/
+4 - the mod folder should contain scripts + images folders or
+    some mods have only scripts or only images that's ok .
+5 - place mod_switcher.exe in the same directory next to your mods files.
+6 - run mod_switcher.exe it should find the t6 path automatically.
+7 - choose the mod that you want to activate.
+Note : if the app filed to auto-detect the path you can browse it manually from inside the app using Browse button.
+
+Data structure example :
+
+📂 %localappdata%/Plutonium/storage/t6/ :
+
+├── 🔧 mod_switcher.exe          ← Place the app here
+├── 📁 scripts/                  ← Active mod files
+├── 📁 images/                   ← Active mod files
+├── 📁 Original/                 ← Your vanilla/original files ⭐
+│   ├── 📁 scripts/
+│   └── 📁 images/
+├── 📁 ColdWar-Zombies/          ← Your first mod
+│   ├── 📁 scripts/
+│   └── 📁 images/
+├── 📁 Multiplayer-Bots/         ← Your second mod
+│   ├── 📁 scripts/
+│   └── 📁 images/
+├── 📁 Custom-Maps/              ← Your third mod
+│   ├── 📁 scripts/
+│   └── 📁 images/
+├── 📁 demos/
+├── 📁 main/
+├── 📁 mods/
+└── 📁 ... (other game folders)
+```
