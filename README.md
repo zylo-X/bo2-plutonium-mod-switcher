@@ -58,7 +58,7 @@ Fed up with manually copying and pasting `scripts` and `images` folders every ti
 ### Before (Manual Process) 😫
 ```
 1. Navigate to your Plutonium folder
-2. Backup current scripts/images in a folder called original , Vanilia , anyname you want .....
+2. Backup current scripts/images in a folder called original,Unmodded , anyname you want .....
 3. Delete existing scripts/images
 4. Copy new file contain mod's scripts/images  for example Coldwar ( contain scripts , images folder)
 5. Hope you didn't mess something up
@@ -133,7 +133,8 @@ Your Plutonium directory should be organized like this:
 
 *Screenshot of the application interface*
 
-![App Screenshot](screenshot.png)
+<img width="622" height="595" alt="main" src="https://github.com/user-attachments/assets/b8b0e62c-c9ac-4fa2-8416-ed610c5c003b" />
+
 
 </div>
 
