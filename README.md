@@ -2,15 +2,15 @@
 
 <div align="center">
 
-![GitHub release](https://img.shields.io/github/v/release/zylo-X/bo2-mod-switcher?style=for-the-badge)
-![Downloads](https://img.shields.io/github/downloads/zylo-X/bo2-mod-switcher/total?style=for-the-badge)
-![License](https://img.shields.io/github/license/zylo-X/bo2-mod-switcher?style=for-the-badge)
+![GitHub release](https://img.shields.io/github/v/release/zylo-X/bo2-plutonium-mod-switcher?style=for-the-badge)
+![Downloads](https://img.shields.io/github/downloads/zylo-X/bo2-plutonium-mod-switcher/total?style=for-the-badge)
+![License](https://img.shields.io/github/license/zylo-X/bo2-plutonium-mod-switcher?style=for-the-badge)
 
 **Effortlessly switch between Black Ops 2 Plutonium mods without the hassle!**
 
 *No more manual file copying, no more lost scripts, no more mod conflicts.*
 
-[🚀 Download Latest Release](../../releases/latest) • [📖 Documentation](#installation--usage) • [🐛 Report Issues](../../issues)
+[🚀 Download Latest Release](../../releases/latest)      • [🐛 Report Issues](../../issues)
 
 </div>
 
@@ -58,10 +58,15 @@ Fed up with manually copying and pasting `scripts` and `images` folders every ti
 ### Before (Manual Process) 😫
 ```
 1. Navigate to your Plutonium folder
-2. Backup current scripts/images in a folder called original,Unmodded , anyname you want .....
-3. Delete existing scripts/images
-4. Copy new file contain mod's scripts/images  for example Coldwar ( contain scripts , images folder)
-5. Hope you didn't mess something up
+2. Move current (original) scripts/images in a folder called original,Unmodded , anyname you want .....
+├── 📁 Original/                 ← Your original files ⭐
+│   ├── 📁 scripts/
+│   └── 📁 images/
+3. Copy mod folder contain mod's files; scripts/images 
+├── 📁 ColdWar-Zombies/          ← Your mod
+│   ├── 📁 scripts/
+│   └── 📁 images/
+4. Hope you didn't mess something up
 ```
 
 ### After (With Mod Switcher) 😎
@@ -232,8 +237,10 @@ If this tool saved you time and hassle, consider:
 
 <div align="center">
 
-**Made with ❤️ for the Black Ops 2 Plutonium Community**
-
+**Made with ❤️ for the Black Ops 2 Plutonium Community**.
+---
+This tool was created by **Zylo_X Studios**.
+---
 *Happy modding! 🎮*
 
 </div>
